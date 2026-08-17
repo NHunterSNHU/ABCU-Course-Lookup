@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/nhunt/CLionProjects/ABCU Course Lookup/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ABCU_Course_Lookup.dir\\ProjectTwo.cpp.obj -c \"C:\\Users\\nhunt\\CLionProjects\\ABCU Course Lookup\\ProjectTwo.cpp\"",
+  "file": "C:/Users/nhunt/CLionProjects/ABCU Course Lookup/ProjectTwo.cpp",
+  "output": "C:/Users/nhunt/CLionProjects/ABCU Course Lookup/cmake-build-debug/CMakeFiles/ABCU_Course_Lookup.dir/ProjectTwo.cpp.obj"
+}
+]
